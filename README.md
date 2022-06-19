@@ -8,5 +8,7 @@ and also have completed ethical hacking with nmap and metasploit from udemy.
 Coming on my traing and project,
 
 I have done internship from aditypur Auto cluster on web develpoment.Where i Closely worked on project e-learning using HTML & CSS, js, php, bootstrap.
+
 I have completed a project on artificial intellingence based smart attendance system using python and opencv.
-and my on going project is on your bookshelp a e-book library. I am focusing on updating this project by adding some new features to it.
+
+On going project is on your bookshelp a e-book library. I am focusing on updating this project by adding some new features to it.
