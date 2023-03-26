@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Front End Developer</h1>
 <h3 align="center">Front end = code + creativity = seamless ui.</h3>
 <br>
-<br>
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
