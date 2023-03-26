@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Front End Developer</h1>
-<h3 align="center">Front end development is a harmonious blend of code and creativity, resulting in seamless and intuitive ui.</h3>
-
+<h3 align="center">Front end = code + creativity = seamless ui.</h3>
+<br>
+<br>
 - 🌱 I’m currently learning **React.js, Node.js**
 
 - 💬 Ask me about **React, Preact, Redux, Javascript**
@@ -9,7 +10,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rohitraj2k04/](https://www.linkedin.com/in/rohitraj2k04/)
 
-- ⚡ Fun fact **I think i am creative with ui's**
+- ⚡ Fun fact **I think i am creative with ui**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
