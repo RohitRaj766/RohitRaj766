@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Front End Developer</h1>
-<h3 align="center">Front end development is a harmonious blend of code and creativity, resulting in seamless and intuitive user interfaces.</h3>
+<h3 align="center">Front end development is a harmonious blend of code and creativity, resulting in seamless and intuitive ui.</h3>
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
