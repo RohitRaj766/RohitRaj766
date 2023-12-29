@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Front End Developer</h1>
+<h1 align="center">Hi 👋, I'm Software Engineer</h1>
 <h3 align="center">Front end = code + creativity = seamless ui.</h3>
 <br>
 
