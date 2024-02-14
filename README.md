@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
-- 💬 Ask me about **React, Preact, Redux, Javascript**
+- 💬 Ask me about **Javascript, TypeScript**
 
 - 📫 How to reach me **rohitraj2k04@gmail.com**
 
