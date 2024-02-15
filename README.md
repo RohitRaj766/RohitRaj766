@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Software+Engineer!;" />
+    👋,
+    <img src="https://readme-typing-svg.herokuapp.com/?color=black&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+;+I'm+Software+Engineer!;" />
 </h1>
 <h3 align="center">Front end = code + creativity = seamless ui.</h3>
 <br>
