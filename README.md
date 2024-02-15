@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?weight=700&font=Roboto&size=35&center=true&vCenter=true&width=680&height=70&duration=8000&lines=Hi!👋,+My+Self+Rohit+Raj;+Passionate+Software+Engineer+from+India+🎯;import+ my❣️+from+'coreofjs';" />
+    <img src="https://readme-typing-svg.herokuapp.com/?weight=700&font=Roboto&size=35&center=true&vCenter=true&width=680&height=70&duration=8000&lines=Hi!👋,+My+Self+Rohit+Raj;+Passionate+Software+Engineer+from+India+🎯;" />
 </h1>
 <h3 align="center">Front end = code + creativity = seamless ui.</h3>
 <br>
