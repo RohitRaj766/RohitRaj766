@@ -3,8 +3,7 @@
 </h1>
 <h3 align="center">Front end = code + creativity = seamless ui.</h3>
 <br>
-**<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh2920&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh2920" /> </p>
-**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitRaj766&label=Profile%20views&color=0e75b6&style=flat" alt="RohitRaj766" /> </p>
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
