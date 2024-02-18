@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rohitraj2k04@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rohitraj2k04/](https://www.linkedin.com/in/rohitraj2k04/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rohitraj2k04/)
 
 - ⚡ Fun fact **I think i am creative with ui**
 
