@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitRaj766&label=Profile%20views&color=0e75b6&style=flat" alt="RohitRaj766" /> </p>
 
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently learning **React.js, Node.js, TypeScript**
 
-- 💬 Ask me about **Javascript, TypeScript**
+- 💬 Ask me about **Javascript, Html, Css**
 
 - 📫 How to reach me **rohitraj2k04@gmail.com**
 
