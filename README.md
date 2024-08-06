@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?weight=700&font=Roboto&size=35&center=true&vCenter=true&width=680&height=70&duration=6000&lines=Hi!👋,+My+Self+Rohit+Raj;Software+Engineer+from+India+🎯;import+js+from+'core-of-💖';" />
 </h1>
-<h3 align="center">Front end = code + creativity = seamless ui</h3>
+<h3 align="center">Front end = code + creativity = seamless ui🙌</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitRaj766&label=Profile%20views&color=0e75b6&style=flat" alt="RohitRaj766" /> </p>
 
