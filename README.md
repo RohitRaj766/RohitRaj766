@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitRaj766&label=Profile%20views&color=0e75b6&style=flat" alt="RohitRaj766" /> </p>
 
 
-- 🌱 I’m currently learning **React.js, Node.js, TypeScript**
+- 🌱 I’m currently working with **Next.js, TypeScript, and building scalable frontend applications**
 
-- 💬 Ask me about **Javascript, Html, Css**
+- 💬 Ask me about **JavaScript, React, Next.js, API integration, and frontend architecture**
 
 - 📫 How to reach me **rohitraj2k04@gmail.com**
 
