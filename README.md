@@ -3,12 +3,13 @@
 </h1>
 <div>
   
-<p align="center">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RohitRaj766&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <b> Frontend Engineer focused on scalable systems & high-performance UI</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohitRaj766&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  
 </p>
 </div>
 
@@ -59,10 +60,10 @@ with strong focus on <b>architecture, performance & real-world impact</b>.
 
 <p align="center">
 
- I design <b>systems</b>, not just UI  
- Performance-first mindset  
- Real-world architecture (Redux + APIs + modular design)  
- Strong design + engineering combination  
+- I design <b>systems</b>, not just UI  
+- Performance-first mindset  
+- Real-world architecture (Redux + APIs + modular design)  
+- Strong design + engineering combination  
 
 </p>
 
