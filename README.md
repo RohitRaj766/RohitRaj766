@@ -64,7 +64,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj766&theme=tokyonight&border_radius=10" />
 </p>
 
----
+
 
 ## ⚡ What Makes Me Different
 
@@ -73,17 +73,17 @@
 -  I handle **real-world state complexity**
 -  I combine **design thinking + engineering**
 
----
+
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/rohitraj2k04/">LeetCode</a> •
   <a href="https://codepen.io/rohitraj13">CodePen</a> •
   <a href="https://www.linkedin.com/in/rohitraj2k04/">LinkedIn</a> •
   <a href="https://www.hackerrank.com/profile/rohitraj2k04">HackerRank</a>
 </p>
 
-<p align="center">
+<p align="left">
   📩 <b>rohitraj2k04@gmail.com</b>
 </p>
