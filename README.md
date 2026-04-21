@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Rohit+Raj;Frontend+Engineer;I+Build+Scalable+Web+Apps;Performance+%7C+Architecture+%7C+Impact" />
 </h1>
 
-<p align="left">
+<p align="center">
   <b> Frontend Engineer focused on scalable systems & high-performance UI</b>
 </p>
 <p align="center">
