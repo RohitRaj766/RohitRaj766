@@ -12,94 +12,70 @@
 
 <br/>
 
-<!-- ABOUT -->
-<h2 align="center">About Me</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/──────────────-0E75B6?style=flat" />
-</p>
+##  About Me
+
+-  I think in **systems, not just components**
+-  Performance-first frontend engineering
+-  Strong focus on **scalable architecture**
+-  Experience with **real-world state & API complexity**
+-  Product mindset: **0 → 1 → Scale**
+
+
+##  Tech Stack
+
+### Frontend
+`React` • `Next.js` • `TypeScript` • `Redux`
+
+### Styling
+`Tailwind CSS` • `SASS`
+
+### Backend & Tools
+`Node.js` • `MySQL` • `REST APIs`
+
+### Workflow
+`Git` • `Postman` • `Figma`
+
+
+
+##  Featured Projects
+
+###  SamarthyaAI
+> AI-powered employee evaluation & promotion system  
+
+- Built scalable frontend architecture  
+- Structured state management for complex workflows  
+- Focus on **transparency + real-time insights**
+
+
+
+###  Qezee
+> Full-stack quiz platform with leaderboard & analytics  
+
+- Designed modular MERN architecture  
+- Optimized performance for real-time interactions  
+- Built analytics + ranking system  
+
+
+
+##  GitHub Stats
 
 <p align="center">
-I design and build <b>scalable, high-performance frontend systems</b><br/>
-with strong focus on <b>architecture, performance & real-world impact</b>.
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitraj766&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj766&theme=tokyonight&border_radius=10" />
 </p>
 
-<p align="center">
-Next.js • TypeScript • Clean Architecture<br/>
-API Integration • State Management<br/>
-Product Engineer Mindset (0 → 1 & Scale)
-</p>
+---
 
-<br/>
+## ⚡ What Makes Me Different
 
-<!-- TECH STACK -->
-<h2 align="center">Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/──────────────-0E75B6?style=flat" />
-</p>
+-  I design **architecture**, not just UI
+-  I prioritize **performance from day one**
+-  I handle **real-world state complexity**
+-  I combine **design thinking + engineering**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,sass,nodejs,mysql,git,postman,figma" />
-</p>
+---
 
-<br/>
-
-<!-- PROJECTS -->
-<h2 align="center">Featured Work</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/────────────────-0E75B6?style=flat" />
-</p>
-
-<h3 align="center">SamarthyaAI</h3>
-<p align="center">
-AI-powered employee evaluation & promotion system<br/>
-Built scalable frontend with structured state management<br/>
-Focus: transparency, real-time insights, decision systems
-</p>
-
-<br/>
-
-<h3 align="center">Qezee</h3>
-<p align="center">
-Full-stack quiz platform with leaderboard & analytics<br/>
-Designed modular architecture & performance optimization<br/>
-Tech: MERN stack
-</p>
-
-<br/>
-
-<!-- STATS -->
-<h2 align="center">GitHub Insights</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/────────────────────-0E75B6?style=flat" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitraj766&show_icons=true&theme=tokyonight&border_radius=12" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj766&theme=tokyonight&border_radius=12" />
-</p>
-
-<br/>
-
-<!-- USP -->
-<h2 align="center">What Makes Me Different</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/────────────────────────-0E75B6?style=flat" />
-</p>
-
-<p align="center">
-I design <b>systems</b>, not just UI<br/>
-Performance-first mindset<br/>
-Real-world architecture (Redux + APIs + modular design)<br/>
-Strong design + engineering combination
-</p>
-
-<br/>
-
-<!-- CONTACT -->
-<h2 align="center">Connect With Me</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/────────────────────-0E75B6?style=flat" />
-</p>
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://leetcode.com/rohitraj2k04/">LeetCode</a> •
@@ -109,5 +85,5 @@ Strong design + engineering combination
 </p>
 
 <p align="center">
-<b style="color:#0E75B6;">rohitraj2k04@gmail.com</b>
+  📩 <b>rohitraj2k04@gmail.com</b>
 </p>
