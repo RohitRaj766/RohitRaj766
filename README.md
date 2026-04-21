@@ -3,16 +3,15 @@
 </h1>
 
 <p align="center">
-  <b>🚀 Frontend Engineer focused on scalable systems & high-performance UI</b>
+  <b> Frontend Engineer focused on scalable systems & high-performance UI</b>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RohitRaj766&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
 
-## 🧑‍💻 About Me
+## About Me
 
 <p align="center">
 I design and build <b>scalable, high-performance frontend systems</b>  
@@ -20,12 +19,11 @@ with strong focus on <b>architecture, performance & real-world impact</b>.
 </p>
 
 <p align="center">
-⚡ Next.js • TypeScript • Clean Architecture  
-🧠 API Integration • State Management  
-🎯 Product Engineer Mindset (0 → 1 & Scale)
+ Next.js • TypeScript • Clean Architecture  
+ API Integration • State Management  
+ Product Engineer Mindset (0 → 1 & Scale)
 </p>
 
----
 
 ## 🛠 Tech Stack
 
@@ -33,45 +31,41 @@ with strong focus on <b>architecture, performance & real-world impact</b>.
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,sass,nodejs,mysql,git,postman,figma" />
 </p>
 
----
 
-## 🚀 Featured Work
+## Featured Work
 
-### 🔹 SamarthyaAI
+### SamarthyaAI
 - AI-powered employee evaluation & promotion system  
 - Built scalable frontend with structured state management  
 - Focus: transparency, real-time insights, decision systems  
 
-### 🔹 Qezee
+### Qezee
 - Full-stack quiz platform with leaderboard & analytics  
 - Designed modular architecture & performance optimization  
 - Tech: MERN stack  
 
----
 
-## 📊 GitHub Insights
+## GitHub Insights
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitraj766&show_icons=true&theme=tokyonight&border_radius=12" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj766&theme=tokyonight&border_radius=12" />
 </p>
 
----
 
-## 🌟 What Makes Me Different
+## What Makes Me Different
 
 <p align="center">
 
-🧩 I design <b>systems</b>, not just UI  
-⚡ Performance-first mindset  
-🏗 Real-world architecture (Redux + APIs + modular design)  
-🎨 Strong design + engineering combination  
+ I design <b>systems</b>, not just UI  
+ Performance-first mindset  
+ Real-world architecture (Redux + APIs + modular design)  
+ Strong design + engineering combination  
 
 </p>
 
----
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://leetcode.com/rohitraj2k04/">LeetCode</a> •
@@ -84,9 +78,8 @@ with strong focus on <b>architecture, performance & real-world impact</b>.
 📧 <b>rohitraj2k04@gmail.com</b>
 </p>
 
----
 
-## ⚡ Fun Section
+## Fun Section
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohitraj766&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10" />
