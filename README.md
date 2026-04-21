@@ -1,58 +1,73 @@
-<h1 align="center">Hi 👋, I'm Rohit Raj</h1>
-<h3 align="center">🚀 Frontend Engineer | Building Scalable & High-Performance Web Apps</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Rohit+Raj;Frontend+Engineer;I+Build+Scalable+Web+Apps;Performance+%7C+Architecture+%7C+Impact" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohitRaj766&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <b>🚀 Frontend Engineer focused on scalable systems & high-performance UI</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RohitRaj766&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- ⚡ Building **scalable frontend systems** using modern architecture  
-- 🧠 Strong in **API integration, state management & performance optimization**  
-- 🚀 Currently working with **Next.js, TypeScript & clean UI systems**  
-- 🎯 Goal: Become a **Product Engineer (0 → 1 & scale mindset)**  
+<p align="center">
+I design and build <b>scalable, high-performance frontend systems</b>  
+with strong focus on <b>architecture, performance & real-world impact</b>.
+</p>
+
+<p align="center">
+⚡ Next.js • TypeScript • Clean Architecture  
+🧠 API Integration • State Management  
+🎯 Product Engineer Mindset (0 → 1 & Scale)
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,sass" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,sass,nodejs,mysql,git,postman,figma" />
 </p>
 
-### ⚙️ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,postman" />
-</p>
+---
 
-### 🎨 Others
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+## 🚀 Featured Work
+
+### 🔹 SamarthyaAI
+- AI-powered employee evaluation & promotion system  
+- Built scalable frontend with structured state management  
+- Focus: transparency, real-time insights, decision systems  
+
+### 🔹 Qezee
+- Full-stack quiz platform with leaderboard & analytics  
+- Designed modular architecture & performance optimization  
+- Tech: MERN stack  
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitraj766&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj766&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitraj766&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj766&theme=tokyonight&border_radius=12" />
 </p>
 
 ---
 
 ## 🌟 What Makes Me Different
 
-- 💡 I don’t just build UI — I build **scalable systems**
-- 🧩 Real-world architecture (Redux + APIs + modular design)
-- ⚡ Focus on **performance, clean code & maintainability**
-- 🎨 Strong **design + engineering combination**
+<p align="center">
+
+🧩 I design <b>systems</b>, not just UI  
+⚡ Performance-first mindset  
+🏗 Real-world architecture (Redux + APIs + modular design)  
+🎨 Strong design + engineering combination  
+
+</p>
 
 ---
 
@@ -66,5 +81,13 @@
 </p>
 
 <p align="center">
-📧 rohitraj2k04@gmail.com
+📧 <b>rohitraj2k04@gmail.com</b>
+</p>
+
+---
+
+## ⚡ Fun Section
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitraj766&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
