@@ -25,7 +25,7 @@ with strong focus on <b>architecture, performance & real-world impact</b>.
 </p>
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,sass,nodejs,mysql,git,postman,figma" />
@@ -67,20 +67,13 @@ with strong focus on <b>architecture, performance & real-world impact</b>.
 
 ## Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/rohitraj2k04/">LeetCode</a> •
   <a href="https://codepen.io/rohitraj13">CodePen</a> •
   <a href="https://www.linkedin.com/in/rohitraj2k04/">LinkedIn</a> •
   <a href="https://www.hackerrank.com/profile/rohitraj2k04">HackerRank</a>
 </p>
 
-<p align="center">
+<p align="left">
 📧 <b>rohitraj2k04@gmail.com</b>
-</p>
-
-
-## Fun Section
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitraj766&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
