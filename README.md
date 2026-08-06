@@ -11,7 +11,6 @@
 </p>
 
 <br/>
-# 👋 Hi, I'm Rohit Raj
 
 ## 🚀 About Me
 
