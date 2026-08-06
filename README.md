@@ -11,79 +11,202 @@
 </p>
 
 <br/>
+# 👋 Hi, I'm Rohit Raj
 
-##  About Me
+## 🚀 About Me
 
--  I think in **systems, not just components**
--  Performance-first frontend engineering
--  Strong focus on **scalable architecture**
--  Experience with **real-world state & API complexity**
--  Product mindset: **0 → 1 → Scale**
+I'm a **Full Stack Software Engineer** passionate about building scalable, secure, and production-ready applications from concept to deployment.
 
+I enjoy designing clean architectures, developing high-performance backend systems, building modern user interfaces, and creating products that solve real-world business problems.
 
-##  Tech Stack
+- 🏗️ Design and build complete full-stack applications
+- ⚡ Performance-first engineering with scalable architecture
+- 🔐 Security-focused backend development using JWT, authentication, and API best practices
+- 📱 Build cross-platform mobile apps with React Native & Expo
+- 🤖 Integrate AI-powered features into modern web applications
+- ☁️ Deploy production-ready applications on modern cloud platforms
+- 🧠 Continuously learning System Design, Distributed Systems, and Cloud Engineering
 
-### Frontend
-`React` • `Next.js` • `TypeScript` • `Redux`
+---
 
-### Styling
-`Tailwind CSS` • `SASS`
+# 🛠 Tech Stack
 
-### Backend & Tools
-`Node.js` • `MySQL` • `REST APIs`
+## 🎨 Frontend
 
-### Workflow
-`Git` • `Postman` • `Figma`
+- React
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- Redux Toolkit
+- TanStack Query (React Query)
+- React Hook Form
+- Context API
 
+## 📱 Mobile
 
+- React Native
+- Expo
+- Expo Router
+- NativeWind
 
-##  Featured Projects
+## ⚙️ Backend
 
-###  SamarthyaAI
-> AI-powered employee evaluation & promotion system  
+- Node.js
+- Express.js
+- TypeScript
+- REST APIs
+- JWT Authentication
+- RBAC (Role-Based Access Control)
+- Zod Validation
+- Swagger / OpenAPI
+- Multer
+- Nodemailer
+- owasp10
 
-- Built scalable frontend architecture  
-- Structured state management for complex workflows  
-- Focus on **transparency + real-time insights**
+## 🗄 Database
 
+- MongoDB
+- Mongoose
+- MySQL
+- PostgreSQL
+- Prisma ORM
 
+## 🎨 Styling
 
-###  Qezee
-> Full-stack quiz platform with leaderboard & analytics  
+- Tailwind CSS
+- SCSS
+- CSS Modules
+- Material UI
+- Ant Design
 
-- Designed modular MERN architecture  
-- Optimized performance for real-time interactions  
-- Built analytics + ranking system  
+## ☁️ DevOps & Tools
 
+- Git
+- GitHub
+- Docker (Basics)
+- Postman
+- Figma
+- MongoDB Atlas
+- Vercel
+- Render
+- Railway
+- Expo EAS Build
 
+---
 
-##  GitHub Stats
+# 🚀 Featured Projects
+
+## ⚡ SmartTask
+
+> Production-ready Full Stack Task Management Platform
+
+### Highlights
+
+- 🌐 Next.js 15 Web Application
+- 📱 React Native Mobile Application
+- ⚙️ Express.js TypeScript Backend
+- 🔐 JWT Authentication with Refresh Token Rotation
+- 📧 OTP Email Verification & Password Reset
+- 🔔 Automated Reminder Notifications
+- 📄 Swagger API Documentation
+- 📊 Productivity Analytics Dashboard
+- ☁️ Production Deployment (Web + Backend + Mobile)
+- 📱 Responsive UI with reusable architecture
+
+**Tech**
+
+`Next.js` • `React Native` • `Node.js` • `Express.js` • `MongoDB` • `TypeScript` • `React Query` • `Expo`
+
+---
+
+## 🤖 SamarthyaAI
+
+> AI-powered Employee Development & Promotion Platform
+
+### Highlights
+
+- Multi-role enterprise dashboard
+- AI-assisted Individual Development Plans (IDPs)
+- Complex workflow & approval system
+- Enterprise-grade state management
+- REST API integration
+- Performance-focused architecture
+- Reusable UI components
+- Optimized large-scale data handling
+
+**Tech**
+
+`React` • `TypeScript` • `Redux Toolkit` • `REST APIs` • `Tailwind CSS`
+
+---
+
+## 🧠 Qezee
+
+> Full Stack Quiz & Learning Platform
+
+### Highlights
+
+- Secure Authentication System
+- Real-time Leaderboard
+- Quiz Engine
+- Analytics Dashboard
+- Complete CRUD Operations
+- RESTful API Architecture
+- Responsive User Interface
+
+**Tech**
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitraj766&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj766&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RohitRaj766&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitRaj766&theme=tokyonight&border_radius=12" />
 </p>
 
+---
 
+# 💡 What Sets Me Apart
 
-## ⚡ What Makes Me Different
+- 🚀 End-to-end Product Development
+- 🏗️ Scalable Full Stack Architecture
+- 🔐 Secure Authentication & Authorization
+- ⚡ Performance Optimization
+- 📱 Cross-platform Mobile Development
+- 📄 Well-documented REST APIs
+- 🤖 AI-powered Application Development
+- ☁️ Production Deployment Experience
+- 🧩 Clean & Maintainable Code
+- 🎯 User-centric Product Development
 
--  I design **architecture**, not just UI
--  I prioritize **performance from day one**
--  I handle **real-world state complexity**
--  I combine **design thinking + engineering**
+---
 
+# 🌱 Currently Learning
 
+- System Design
+- Microservices
+- Distributed Systems
+- Advanced Node.js
+- Cloud Infrastructure (AWS)
+- Docker & Kubernetes
+- CI/CD Pipelines
+- Software Architecture
 
-## 🌐 Connect With Me
+---
 
-<p align="left">
-  <a href="https://leetcode.com/rohitraj2k04/">LeetCode</a> •
-  <a href="https://codepen.io/rohitraj13">CodePen</a> •
-  <a href="https://www.linkedin.com/in/rohitraj2k04/">LinkedIn</a> •
-  <a href="https://www.hackerrank.com/profile/rohitraj2k04">HackerRank</a>
-</p>
+# 🌐 Connect With Me
 
-<p align="left">
-  📩 <b>rohitraj2k04@gmail.com</b>
-</p>
+💼 **LinkedIn**  
+https://www.linkedin.com/in/rohitraj2k04/
+
+💻 **GitHub**  
+https://github.com/RohitRaj766
+
+🏆 **HackerRank**  
+https://www.hackerrank.com/profile/rohitraj2k04
+
+📧 **Email**  
+**rohitraj2k04@gmail.com**
